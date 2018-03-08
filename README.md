@@ -1,2 +1,2 @@
-# js-firstSteps
-my first js scripts
+# js-horse-race
+my first js script: horse race game.
